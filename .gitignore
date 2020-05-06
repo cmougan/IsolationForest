@@ -41,7 +41,5 @@ vignettes/*.pdf
 # Rproj
 *.Rproj
 
-# Images 
-*.png
-
+# File created by mac
 .DS_Store
