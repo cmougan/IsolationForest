@@ -1,5 +1,5 @@
 # IsolationForest
-Isolation forest repository
+This notebook contains an implementation from scratch of Isolation Forest. The notebook contains the algorithm while the other folder contains images made for the blog post and a folder with the publications and presentations used for the development and understanding of the post.
 
 Useful links and blogs:
  - https://quantdare.com/isolation-forest-algorithm/ :  Pseudo code of isolation forest
