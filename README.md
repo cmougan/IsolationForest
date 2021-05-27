@@ -1,5 +1,10 @@
+[![black](https://img.shields.io/badge/code%20style-black-000000.svg?style=plastic)](https://github.com/psf/black)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?color=g&style=plastic)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/github/pipenv/locked/python-version/cmougan/WRI_WellBeing_Data_Layer?style=plastic)](https://github.com/cmougan/WRI_WellBeing_Data_Layer)
+
 # IsolationForest
-This notebook contains an implementation from scratch of Isolation Forest. The notebook contains the algorithm while the other folder contains images made for the blog post and a folder with the publications and presentations used for the development and understanding of the post.
+This notebook contains an implementation from scratch of Isolation Forest. 
+The notebook contains the algorithm while the other folder contains images made for the blog post and a folder with the publications and presentations used for the development and understanding of the post.
 
 Useful links and blogs:
  - https://quantdare.com/isolation-forest-algorithm/ :  Pseudo code of isolation forest

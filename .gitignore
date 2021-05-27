@@ -43,3 +43,5 @@ vignettes/*.pdf
 
 # File created by mac
 .DS_Store
+.ipynb_checkpoints
+.idea/
